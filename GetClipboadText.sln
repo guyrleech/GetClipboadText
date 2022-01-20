@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GetClipboadText", "GetClipboadText.vcxproj", "{B4F251A1-82D2-4AD5-9C9A-77A313309764}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4F251A1-82D2-4AD5-9C9A-77A313309764}.Debug|x64.ActiveCfg = Debug|x64
+		{B4F251A1-82D2-4AD5-9C9A-77A313309764}.Debug|x64.Build.0 = Debug|x64
+		{B4F251A1-82D2-4AD5-9C9A-77A313309764}.Debug|x86.ActiveCfg = Debug|Win32
+		{B4F251A1-82D2-4AD5-9C9A-77A313309764}.Debug|x86.Build.0 = Debug|Win32
+		{B4F251A1-82D2-4AD5-9C9A-77A313309764}.Release|x64.ActiveCfg = Release|x64
+		{B4F251A1-82D2-4AD5-9C9A-77A313309764}.Release|x64.Build.0 = Release|x64
+		{B4F251A1-82D2-4AD5-9C9A-77A313309764}.Release|x86.ActiveCfg = Release|Win32
+		{B4F251A1-82D2-4AD5-9C9A-77A313309764}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FE4E2CD-C05C-46F6-BD2A-396A61EFBD26}
+	EndGlobalSection
+EndGlobal
